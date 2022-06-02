@@ -1,0 +1,10 @@
+node_modules/
+.vscode
+yarn.lock
+.env
+test.js
+.DS_Store
+secret.celo
+
+*.key
+*.pem
